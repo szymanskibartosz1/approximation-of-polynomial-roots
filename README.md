@@ -1,5 +1,10 @@
 ## Approximation of polynomial roots
 
-Projekt polegał na implementacji algorytmu wyznaczającego zera wielomianu
-wn(x) = a0 + T0(x) + a1T1(x) +…+ anTn(x)
-reprezentowanego w bazie wielomianów Czebyszewa I-ego rodzaju za pomocą metody Halleya.
+The project involved implementing an algorithm for determining the roots of the polynomial represented in the basis of Chebyshev polynomials of the first kind using Halley's method.
+
+## Used technologies
+- MATLAB
+
+## Final effect
+![image](https://github.com/user-attachments/assets/e6d1f692-a393-4600-b822-dc01395fad4e)
+
